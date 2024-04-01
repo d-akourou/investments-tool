@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```sh
-git clone <repository_url>
+git clone https://github.com/d-akourou/investments-tool.git
 ```
 
 2. Navigate to the project directory:
